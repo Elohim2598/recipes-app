@@ -1,0 +1,15 @@
+    //  1.  declare variables for the API call (url, api key, api id). done
+
+// 2. create a function to make the API call (use Axios, make use of async/await). done
+// 3. console.log the response. Done
+// 5. add the JSX to the return statement (use the response from the API call,
+// prevent the page from reloading, add a form with a button to submit the form). done
+// 6. create components: RecipeTile, RecipeList. done
+// 7. add query, recipe state to the App component. done
+// 9. map over the recipes and return a RecipeTile component for each recipe. done
+// 10. inside the RecipeTile component add the jsx for the recipe title, image, and link. done
+// 11. inside the RecipeTile component use regex to only show the recipes that have a jpeg, jpg, png, gif as the image extension.
+// 12. use CSS grid to style the recipes
+// 13. add a dropdown to the form to select the diet type ( health labels )
+// 14. add a healthLabel state to the App component
+// 15. assign an onClick to the dropdown to set the healthLabel state
